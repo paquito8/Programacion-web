@@ -26,3 +26,8 @@ section a img:hover {
     opacity: 1;
     filter: contrast(120%);
 }
+
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}
